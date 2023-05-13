@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png');
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.text{
+  font-variant: small-caps;
+}
+.bi.bi-plus-circle-dotted {
+  color: blue;
+}
+.bi.bi-plus-circle-dotted:hover{
+  color: black;
+}
+.employee-form {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.employee-form label {
+  font-weight: bold;
+}
+
+.employee-form input {
+  margin-bottom: 10px;
+}
+
+.employee-form button[type="submit"] {
+  margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
